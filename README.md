@@ -14,7 +14,7 @@
 I'm a **Java Backend Developer** based in Guangzhou, China. Passionate about creating impactful software, particularly interested in game development and backend systems. Currently exploring job opportunities abroad and expanding my English skills.
 
 - 🔭 Currently working on: Enhancing my game development skills!
-- 🌱 Currently learning: Docker, Spring Boot, and Prometheus.
+- 🌱 Currently learning: Docker, Spring Boot
 - 👯 Open to collaborating on open-source Java projects.
 - 💬 Ask me about: Backend Development, Docker, Java, Spring Boot.
 
